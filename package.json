@@ -1,0 +1,16 @@
+{
+  "name": "place-search",
+  "version": "1.0.0",
+  "description": "Search for stuff",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Tom Benbow",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.0"
+  }
+}
